@@ -1,1 +1,3 @@
 Mars has water so it could be good as a base.
+This line added to home dir.
+
